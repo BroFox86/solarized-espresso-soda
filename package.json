@@ -1,0 +1,27 @@
+{
+    "name": "theme-espresso-soda-solarized",
+    "displayName": "Espresso Soda Solarized",
+    "description": "Converted theme for VSC from the original Sublime Text Soda Theme using Yeoman generator",
+    "version": "0.1.0",
+    "publisher": "brofox86",
+    "engines": {
+        "vscode": "^1.16.0"
+    },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/BroFox86/theme-solarized-espresso-soda/"
+	},
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Espresso Soda Solarized",
+                "uiTheme": "vs",
+                "path": "./themes/theme-espresso-soda-solarized.json"
+            }
+        ]
+    }
+}
