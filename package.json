@@ -4,18 +4,18 @@
   "description":
     "Converted syntax theme for VSC from the original Soda Theme available for Sublime Text editor",
   "author": "Daur Gamisonia",
-  "version": "1.0.0",
+  "version": "2.0.5",
   "publisher": "brofox86",
   "engines": {
     "vscode": "^1.16.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BroFox86/theme-espresso-soda-solarized/"
+    "url": "https://github.com/BroFox86/solarized-espresso-soda/"
   },
   "categories": ["Themes"],
   "galleryBanner": {
-    "color": "#FAF8E3",
+    "color": "#faf8e3",
     "theme": "light"
   },
   "icon": "icon.png",
@@ -27,6 +27,5 @@
         "path": "./themes/theme-espresso-soda-solarized.json"
       }
     ]
-  },
-  "extensionDependencies": ["radium-v.better-less"]
+  }
 }
