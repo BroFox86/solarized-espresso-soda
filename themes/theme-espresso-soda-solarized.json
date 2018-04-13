@@ -480,7 +480,7 @@
       "name": "SCSS: Mixin color",
       "scope": "entity.name.function.scss",
       "settings": {
-        "foreground": "#8E24AA"
+        "foreground": "#6700B9"
       }
     },
     {
