@@ -53,4 +53,4 @@ The scopes are identified by using *Command Palette > Developer: Inspect TM Scop
 
 ## Contribution
 
-Report issues/bugs to the [issue tracker](https://github.com/BroFox86/solarized-espresso-soda/issues).
+Report issues, bugs and grammar mistakes to the [issue tracker](https://github.com/BroFox86/solarized-espresso-soda/issues).

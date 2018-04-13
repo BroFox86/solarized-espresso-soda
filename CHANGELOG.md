@@ -1,5 +1,9 @@
 # Change Log
 
+## 2.1.0 (2018-04-13)
+* Enhancement: Added SCSS support
+* Enhancement [SCSS]: Added SCSS mixin color
+
 ## 2.0.5 (2018-02-25)
 * Code reverted to v2.0.1
 
