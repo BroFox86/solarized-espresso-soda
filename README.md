@@ -37,7 +37,7 @@ More info [here](https://code.visualstudio.com/docs/getstarted/theme-color-refer
 For example, the code below in the config.json file *(Preferences > Settings)* will change the comment colour to dark grey:
 
 ```
-"editor.tokencolourCustomizations": {
+"editor.tokenColorCustomizations": {
   "textMateRules": [
     {
       "scope": "comment, comment punctuation, comment.block.preprocessor",
