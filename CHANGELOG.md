@@ -1,11 +1,14 @@
 # Change Log
 
+## 2.2.1 (2018-05-23)
+* Other [SCSS]: Lightened the support function colour
+
 ## 2.2.0 (2018-05-22)
 * Enhancement [SCSS]: Added appropriate colours to `@` and `%` prefixes
-* Enhancement [SCSS]: Added colours to `@extend value`
+* Enhancement [SCSS]: Added the colour to `@extend value`
 * Enhancement [SCSS]: Added colours to `.className` dots
-* Other [SCSS]: Changed support functions colour like `darken($color, num)`
-* Fix [SCSS]: Fixed some wrong colours in several places such as hex value colours after variables: `$grey: #333`
+* Other [SCSS]: Changed the support function colour (`darken()`, `rgba()` etc.)
+* Fix [SCSS]: Fixed some wrong colours in several places such as the hex value colour after a variable: `$grey: #333`
 
 ## 2.1.1 (2018-04-13)
 * Other [SCSS]: Updated mixin color
