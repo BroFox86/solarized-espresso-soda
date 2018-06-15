@@ -1,17 +1,24 @@
 <div align="center"><img width="1000" src="https://github.com/BroFox86/solarized-espresso-soda/raw/master/logo.png"></div>
 
 This is a converted syntax theme for Visual Studio Code from 
-the original [Soda Theme](https://github.com/buymeasoda/soda-theme) 
-using [Yeoman generator](https://github.com/Microsoft/vscode-docs/blob/0.9.0/release-notes/latest.md#yo-code---streamlined-customizations-for-vs-code) and based on the default Solarized Light theme. 
+the original [Soda Theme](https://github.com/buymeasoda/soda-theme) and based on the default Solarized Light theme. 
 Also available <img src="https://github.com/BroFox86/theme-espresso-soda-light/raw/master/icon-small.png" width=16 height=16/> [Espresso Soda](https://marketplace.visualstudio.com/items?itemName=brofox86.theme-espresso-soda-light) which based on the default Light theme.
 
 ## Screenshots
 
-![Screenshot](https://github.com/BroFox86/solarized-espresso-soda/raw/master/screenshots/screenshot_01.png)
-![Screenshot](https://github.com/BroFox86/solarized-espresso-soda/raw/master/screenshots/screenshot_02.png)
-![Screenshot](https://github.com/BroFox86/solarized-espresso-soda/raw/master/screenshots/screenshot_03.png)
+*Java Script:*<br>
+![Screenshot](https://github.com/BroFox86/solarized-espresso-soda/raw/master/screenshots/js.png)
 
-## Less syntax highlighting
+*Pug:*<br>
+![Screenshot](https://github.com/BroFox86/solarized-espresso-soda/raw/master/screenshots/pug.png)
+
+*SCSS (CSS and Less are also supported):*<br>
+![Screenshot](https://github.com/BroFox86/solarized-espresso-soda/raw/master/screenshots/scss.png)
+
+*HTML:*<br>
+![Screenshot](https://github.com/BroFox86/solarized-espresso-soda/raw/master/screenshots/html.png)
+
+## Less syntax
 
 I recommend install [better-less](https://marketplace.visualstudio.com/items?itemName=radium-v.better-less) extension together with this theme for properly highlight Less syntax in VSC. 
 
@@ -53,4 +60,4 @@ The scopes are identified by using *Command Palette > Developer: Inspect TM Scop
 
 ## Contribution
 
-Report issues, bugs and grammar mistakes to the [issue tracker](https://github.com/BroFox86/solarized-espresso-soda/issues).
+Report issues, bugs to the [issue tracker](https://github.com/BroFox86/solarized-espresso-soda/issues).
