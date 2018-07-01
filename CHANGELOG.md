@@ -1,7 +1,7 @@
 # Change Log
 
 ## 3.0.0 (2018-06-15)
-* Enhancement: Pug syntax highlighting is fully reworked with intend to reduce excessive amount of blue colours
+* Enhancement: Pug syntax highlighting is fully reworked with intend to reduce excessive amount of similar to each other blue colours
 * Enhancement: Added CSS syntax support
 * Enhancement: Updated Less support
 * Enhancement: Added several new colours
@@ -14,7 +14,7 @@
 * Enhancement [SCSS]: Added appropriate colours to `@` and `%` prefixes
 * Enhancement [SCSS]: Added colours to `.className` dots
 * Other [SCSS]: Changed the support function colour (`darken()`, `rgba()` etc.)
-* Fix [SCSS]: Fixed some wrong colours in several places such as the hex value colour after a variable: `$grey: #333`
+* Fix [SCSS]: Fixed some wrong colours in several places such as the hex value colour after a variable
 
 ## 2.1.1 (2018-04-13)
 * Other [SCSS]: Updated mixin color

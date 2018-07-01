@@ -1,15 +1,15 @@
-<div align="center"><img width="1000" src="https://github.com/BroFox86/solarized-espresso-soda/raw/master/logo.png"></div>
+<div align="center"><img width="800" src="https://github.com/BroFox86/solarized-espresso-soda/raw/master/logo.png"></div>
 
-This is a converted syntax theme for Visual Studio Code from 
-the original [Soda Theme](https://github.com/buymeasoda/soda-theme) and based on the default Solarized Light theme. 
-Also available <img src="https://github.com/BroFox86/theme-espresso-soda-light/raw/master/icon-small.png" width=16 height=16/> [Espresso Soda](https://marketplace.visualstudio.com/items?itemName=brofox86.theme-espresso-soda-light) which based on the default Light theme.
+This is a colour theme for MS Visual Studio Code editor. Basically the theme is converted from 
+the original [Soda](https://github.com/buymeasoda/soda-theme) syntax theme but contains some reworks & improvements and based on the default Solarized Light theme. 
+Also available <img src="https://github.com/BroFox86/theme-espresso-soda-light/raw/master/icon-small.png" width=16 height=16/> [Espresso Soda](https://marketplace.visualstudio.com/items?itemName=brofox86.theme-espresso-soda-light) that based on the default Light theme.
 
 ## Screenshots
 
 *Java Script:*<br>
 ![Screenshot](https://github.com/BroFox86/solarized-espresso-soda/raw/master/screenshots/js.png)
 
-*Pug:*<br>
+*Pug (manually reworked):*<br>
 ![Screenshot](https://github.com/BroFox86/solarized-espresso-soda/raw/master/screenshots/pug.png)
 
 *SCSS (CSS and Less are also supported):*<br>
@@ -41,15 +41,15 @@ b) Type `theme` and choose `Preferences: Color Theme`, then select this theme fr
 You can customize the colours to your liking, overriding the ones provided by this theme or extending them. 
 More info [here](https://code.visualstudio.com/docs/getstarted/theme-color-reference). 
 
-For example, the code below in the config.json file *(Preferences > Settings)* will change the comment colour to dark grey:
+For example, the code below in the config.json file *(Preferences > Settings)* will change the CSS tag colour to dark green:
 
 ```
 "editor.tokenColorCustomizations": {
   "textMateRules": [
     {
-      "scope": "comment, comment punctuation, comment.block.preprocessor",
+      "scope": ["entity.name.tag.css", "entity.name.tag.less"],
       "settings": {
-        "foreground": "#757575"
+        "foreground": "#61862F"
       }
     }
   ]
