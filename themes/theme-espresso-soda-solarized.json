@@ -427,7 +427,7 @@
       "name": "PUG: Mixins",
       "scope": "entity.name.function.pug",
       "settings": {
-        "foreground": "#7653C1"
+        "foreground": "#9C27B0"
       }
     },
     {
@@ -461,7 +461,7 @@
       }
     },
     {
-      "name": "CSS: Selector",
+      "name": "CSS: Selectors",
       "scope": [
         "meta.selector",
         "meta.selector entity",
