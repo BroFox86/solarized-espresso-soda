@@ -4,9 +4,6 @@
 
 * [PUG]: Changed the mixin color
 
-Before & After:<br>
-![Screenshot](https://github.com/BroFox86/solarized-espresso-soda/raw/master/screenshots/update-mixin-color.jpg)
-
 ## 3.0.0 (2018-06-15)
 * Enhancement: Pug syntax highlighting is fully reworked with intend to reduce excessive amount of similar to each other blue colors
 * Enhancement: Added CSS syntax support
