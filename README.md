@@ -1,4 +1,4 @@
-<div align="center"><img width="800" src="https://github.com/BroFox86/solarized-espresso-soda/raw/master/logo.png"></div>
+<div align="center"><img width="600" src="https://github.com/BroFox86/solarized-espresso-soda/raw/master/logo.png"></div>
 
 This is a color theme for MS Visual Studio Code editor. Basically the theme is converted from 
 the original [Soda](https://github.com/buymeasoda/soda-theme) syntax theme but contains some reworks & improvements and based on the default Solarized Light theme. 
