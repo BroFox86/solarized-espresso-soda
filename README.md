@@ -24,7 +24,7 @@ I recommend install [better-less](https://marketplace.visualstudio.com/items?ite
 
 ## Installation
 
-This theme is available for free in the <img src="https://marketplace.visualstudio.com/favicon.ico" width=16 height=16/> [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=brofox86.solarized-espresso-soda). 
+This theme is available for free in the <img src="https://marketplace.visualstudio.com/favicon.ico" width=16 height=16/> [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=brofox86.theme-espresso-soda-solarized). 
 
 ### Activation
 
